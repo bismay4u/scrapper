@@ -1,0 +1,6 @@
+{
+    "rules":{
+        "title":"h1>span",
+        "movement":"body td[data-th='Movement']"
+    }
+}
