@@ -10,7 +10,8 @@
   "author": "Bismay [bismay4u@gmail.com]",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "lodash": ">=4.17.13",
+    "axios": ">=0.18.1",
     "cheerio": "^1.0.0-rc.2",
     "enquirer": "^2.0.7",
     "lodash": "^4.17.11"
